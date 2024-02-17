@@ -1,0 +1,25 @@
+.login-bg {
+  background: url(../assests/jail1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.homebg{
+  background: url(../assests/Prison.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.homebg {
+  background: url(../assests/Prison.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* 
+body {
+  overflow: hidden;
+  scrollbar-width: none;
+} */
